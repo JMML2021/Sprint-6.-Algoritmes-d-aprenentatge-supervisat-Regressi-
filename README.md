@@ -1,4 +1,4 @@
-# Sprint-6.-Algoritmes-d-aprenentatge-supervisat-Regressi-
+# Sprint-6. Algoritmes d'aprenentatge supervisat Regressio
 
 
 Objectius generals
